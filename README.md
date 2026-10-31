@@ -22,9 +22,6 @@ The application evaluates multiple URL parameters, calculates a risk score, and 
 ## Technologies Used
 
 - Python
-- Flask
-- HTML5
-- CSS3
 - Regular Expressions
 - Socket Programming
 - IP Address Validation
@@ -33,9 +30,7 @@ The application evaluates multiple URL parameters, calculates a risk score, and 
 
     URL-Sentinel/
     |
-    |-- app.py
-    |-- mm.py
-    |-- index.html
+    |-- new.py
     |-- README.md
 
 ## Installation and Setup
@@ -48,13 +43,9 @@ The application evaluates multiple URL parameters, calculates a risk score, and 
 
     cd url-sentine
 
-### 3. Install Dependencies
-
-    pip install flask
-
 ### 4. Run the Application
 
-    python app.py
+    python new.py
 
 ### 5. Open in Browser
 
